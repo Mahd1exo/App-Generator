@@ -51,7 +51,7 @@ project_root/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Mahd1exo/App-Generator.git
    cd your-repo-name
    ```
 
@@ -60,7 +60,7 @@ project_root/
    pip install -r requirements.txt
    ```
 
-3. Set your OpenAI API key:
+3. Set your OpenAI API or GenAI key:
    ```bash
    export GOOGLE_API_KEY='your_api_key'
    ```
@@ -112,7 +112,7 @@ project_root/
 
 For questions, suggestions, or contributions, please reach out to:
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: https://github.com/Mahd1exo/
+- **Email**: Mohammadmahdi82.e@gmail.com
 
 Happy coding! 🧑‍💻🚀
