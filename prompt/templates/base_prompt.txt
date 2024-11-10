@@ -1,0 +1,38 @@
+Comprehensive Python GUI Application - Generalized Prompt
+
+Objective:
+Create a Python GUI application using a user-friendly, modern interface. The application should be designed to work effectively for various project types, with customizable functionality and responsive design.
+
+Project Requirements:
+---------------------
+
+1. Framework and Code Organization:
+   - Use Python’s Tkinter library or another suitable GUI framework to develop a complete and interactive GUI application.
+   - Organize the code within a single Python file, structured with functions, classes, or any modular elements to ensure readability, maintainability, and scalability.
+
+2. Dark Theme and User-Friendly Design:
+   - Implement a visually appealing dark theme with appropriate color selection for backgrounds, text, and interactive elements.
+   - Ensure a cohesive style, including padding, consistent spacing, and smooth hover effects to create an intuitive user experience.
+   - Design the layout to be simple yet modern, focusing on ease of use and clean visual presentation.
+
+3. Core Functionality and Interactive Elements:
+   - Incorporate essential GUI components such as buttons, labels, input fields, checkboxes, dropdowns, and sliders to support typical user interactions.
+   - Design the application to be versatile, adaptable for different purposes (e.g., form processing, calculators, or organizers) with customizable functionality.
+   - Make use of additional libraries if necessary (e.g., `ttk` for themed widgets, or any toolkit compatible with Tkinter) to enhance the design and functionality.
+
+4. Responsive Layout and Scaling:
+   - Make the layout responsive, allowing it to adapt to different screen sizes and resolutions.
+   - Establish minimum dimensions and ensure elements adjust gracefully to prevent overlapping or distortion when the window is resized.
+   - Maintain consistent readability and scaling of elements for a seamless user experience on varying screen sizes.
+
+5. Error Handling and Testing:
+   - Integrate comprehensive error handling and input validation to prevent unexpected behavior.
+   - Test the application thoroughly to identify and resolve potential issues, ensuring a stable and bug-free experience.
+
+6. Response Format Requirements:
+   - Provide the complete code in a single block, without comments, explanations, or additional text.
+   - Ensure the application is ready-to-run, fully executable, and meets all specified requirements for functionality and design.
+   - Prioritize readability, functionality, and a polished, user-friendly interface.
+
+Final Notes:
+Leverage the most effective tools, layout techniques, and best practices to ensure the application meets all specified requirements and is adaptable to a variety of project needs.
